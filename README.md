@@ -6,7 +6,7 @@ Credit Card Frauds are the cases of using someone else's credit cards for financ
 - To classify whether a credit card transaction is fradulent or genuine and handle unbalanced dataset.
 - It is a **binary classification** problem with highly unbalanced data.
 
-- ### Notebook Contents :
+### Notebook Contents :
 - Dataset Information
 - Data Visualization
 - Feature Selection
